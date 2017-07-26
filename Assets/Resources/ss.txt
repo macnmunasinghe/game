@@ -1,0 +1,404 @@
+{
+  	"Items": [
+  			{
+  			"name":"H",
+			"State":"Gas",
+			"melting": "14.01K",
+			"boilling":"20.28k",
+			"rad":"53pm",
+			"den":"0.0899kg/m³",
+			"elc":"1",
+			"num":"1"
+			},
+			{
+			"name":"He",
+			"State":"Noble",
+			"melting": "0K",
+			"boilling":"4.22k",
+			"rad":"31pm",
+			"den":"0.1785kg/m³",
+			"elc":"2",
+			"num":"2"
+			},
+			{
+			"name":"Li",
+			"State":"Solid",
+			"melting": "453.69K",
+			"boilling":"1615K",
+			"rad":"167pm",
+			"den":"535kg/m³",
+			"elc":"21",
+			"num":"3"
+			},
+			{
+			"name":"Be",
+			"State":"Solid",
+			"melting": "1560K",
+			"boilling":"2743K",
+			"rad":"112pm",
+			"den":"1848kg/m³",
+			"elc":"22",
+			"num":"4"
+			},
+			{
+			"name":"B",
+			"State":"Solid",
+			"melting": "2348K",
+			"boilling":"4273K",
+			"rad":"87pm",
+			"den":"2460kg/m³",
+			"elc":"23",
+			"num":"5"
+			},
+			{
+			"name":"C",
+			"State":"Solid",
+			"melting": "3823K",
+			"boilling":"4300K",
+			"rad":"67pm",
+			"den":"2260kg/m³",
+			"elc":"24",
+			"num":"6"
+			},
+			{
+			"name":"N",
+			"State":"Gas",
+			"melting": "63.05K",
+			"boilling":"77.36K",
+			"rad":"56pm",
+			"den":"1.251kg/m³",
+			"elc":"25",
+			"num":"7"
+			},
+			{
+			"name":"O",
+			"State":"Gas",
+			"melting": "54.8K",
+			"boilling":"90.2K",
+			"rad":"48pm",
+			"den":"1.429kg/m³",
+			"elc":"26",
+			"num":"8"
+			},
+			{
+			"name":"F",
+			"State":"Gas",
+			"melting": "53.5K",
+			"boilling":"85.03K",
+			"rad":"42pm",
+			"den":"1.696kg/m³",
+			"elc":"27",
+			"num":"9"
+			},
+			{
+			"name":"Ne",
+			"State":"Gas",
+			"melting": "24.56K",
+			"boilling":"27.07K",
+			"rad":"38pm",
+			"den":"0.9kg/m³",
+			"elc":"28",
+			"num":"10"
+			},
+			{
+			"name":"Na",
+			"State":"Solid",
+			"melting": "370.8K",
+			"boilling":"1156K",
+			"rad":"190pm",
+			"den":"968kg/m³",
+			"elc":"281",
+			"num":"11"
+			},
+			{
+			"name":"Mg",
+			"State":"Solid",
+			"melting": "923K",
+			"boilling":"1363K",
+			"rad":"145pm",
+			"den":"1738kg/m³",
+			"elc":"282",
+			"num":"12"
+			},
+			{
+			"name":"Al",
+			"State":"Solid",
+			"melting": "933.47K",
+			"boilling":"2792K",
+			"rad":"118pm",
+			"den":"245kg/m³",
+			"elc":"283",
+			"num":"13"
+			},
+			{
+			"name":"Si",
+			"State":"Solid",
+			"melting": "91687K",
+			"boilling":"3173K",
+			"rad":"111pm",
+			"den":"2330kg/m³",
+			"elc":"284",
+			"num":"14"
+			},
+			{
+			"name":"P",
+			"State":"Solid",
+			"melting": "317.3K",
+			"boilling":"553.6K",
+			"rad":"98pm",
+			"den":"1823kg/m³",
+			"elc":"285",
+			"num":"15"
+			},
+			{
+			"name":"S",
+			"State":"Solid",
+			"melting": "388.36K",
+			"boilling":"717.7K",
+			"rad":"88pm",
+			"den":"1960kg/m³",
+			"elc":"286",
+			"num":"16"
+			},
+			{
+			"name":"Cl",
+			"State":"Gas",
+			"melting": "171.6K",
+			"boilling":"239.11K",
+			"rad":"79pm",
+			"den":"3.214kg/m³",
+			"elc":"287",
+			"num":"17"
+			},
+			{
+			"name":"Ar",
+			"State":"Gas",
+			"melting": "83.8K",
+			"boilling":"87.3K",
+			"rad":"71pm",
+			"den":"1.784kg/m³",
+			"elc":"288",
+			"num":"18"
+			},
+			{
+			"name":"Al",
+			"State":"Solid",
+			"melting": "336.53K",
+			"boilling":"1032K",
+			"rad":"118pm",
+			"den":"856kg/m³",
+			"elc":"2881",
+			"num":"19"
+			},
+			{
+			"name":"Ca",
+			"State":"Solid",
+			"melting": "1115K",
+			"boilling":"1757K",
+			"rad":"194pm",
+			"den":"1550kg/m³",
+			"elc":"2882",
+			"num":"20"
+			},
+			{
+			"name":"Sc",
+			"State":"Solid",
+			"melting": "1814K",
+			"boilling":"3103K",
+			"rad":"184pm",
+			"den":"2985kg/m³",
+			"elc":"2892",
+			"num":"21"
+			},
+			{
+			"name":"Ti",
+			"State":"Solid",
+			"melting": "1941K",
+			"boilling":"3560K",
+			"rad":"176pm",
+			"den":"4507kg/m³",
+			"elc":"28102",
+			"num":"22"
+			},
+			{
+			"name":"V",
+			"State":"Solid",
+			"melting": "2183K",
+			"boilling":"3680K",
+			"rad":"171pm",
+			"den":"6110kg/m³",
+			"elc":"28112",
+			"num":"23"
+			},
+			{
+			"name":"Cr",
+			"State":"Solid",
+			"melting": "2180K",
+			"boilling":"2944K",
+			"rad":"166pm",
+			"den":"7140kg/m³",
+			"elc":"28131",
+			"num":"24"
+			},
+			{
+			"name":"Mn",
+			"State":"Solid",
+			"melting": "1519K",
+			"boilling":"2334K",
+			"rad":"161pm",
+			"den":"7470kg/m³",
+			"elc":"28132",
+			"num":"25"
+			},
+			{
+			"name":"Fe",
+			"State":"Solid",
+			"melting": "1811K",
+			"boilling":"3134K",
+			"rad":"156pm",
+			"den":"7874kg/m³",
+			"elc":"28142",
+			"num":"26"
+			},
+			{
+			"name":"Co",
+			"State":"Solid",
+			"melting": "1768K",
+			"boilling":"3200K",
+			"rad":"152pm",
+			"den":"8900kg/m³",
+			"elc":"28152",
+			"num":"27"
+			},
+			{
+			"name":"Ni",
+			"State":"Solid",
+			"melting": "1728K",
+			"boilling":"3186K",
+			"rad":"118pm",
+			"den":"8908kg/m³",
+			"elc":"28162",
+			"num":"28"
+			},
+			{
+			"name":"Cu",
+			"State":"Solid",
+			"melting": "1357.77K",
+			"boilling":"3200K",
+			"rad":"145pm",
+			"den":"8920kg/m³",
+			"elc":"28182",
+			"num":"29"
+			},
+			{
+			"name":"Zn",
+			"State":"Solid",
+			"melting": "692.68K",
+			"boilling":"1180K",
+			"rad":"142pm",
+			"den":"412kg/m³",
+			"elc":"28182",
+			"num":"30"
+			},
+			{
+			"name":"Ga",
+			"State":"Solid",
+			"melting": "302.91K",
+			"boilling":"2477K",
+			"rad":"136pm",
+			"den":"5904kg/m³",
+			"elc":"28183",
+			"num":"31"
+			},
+			{
+			"name":"Ge",
+			"State":"Solid",
+			"melting": "1211.4K",
+			"boilling":"3093K",
+			"rad":"125pm",
+			"den":"5323kg/m³",
+			"elc":"28184",
+			"num":"32"
+			},
+			{
+			"name":"As",
+			"State":"Solid",
+			"melting": "1090K",
+			"boilling":"887K",
+			"rad":"114pm",
+			"den":"5727kg/m³",
+			"elc":"28185",
+			"num":"33"
+			},
+			{
+			"name":"Se",
+			"State":"Solid",
+			"melting": "494K",
+			"boilling":"958K",
+			"rad":"103pm",
+			"den":"4819kg/m³",
+			"elc":"28186",
+			"num":"34"
+			},
+			{
+			"name":"Br",
+			"State":"Liquid",
+			"melting": "265.8K",
+			"boilling":"332K",
+			"rad":"94pm",
+			"den":"3120kg/m³",
+			"elc":"281870",
+			"num":"35"
+			},
+			{
+			"name":"Kr",
+			"State":"Gas",
+			"melting": "115.79K",
+			"boilling":"119.93K",
+			"rad":"88pm",
+			"den":"3.75kg/m³",
+			"elc":"281880",
+			"num":"36"
+			},
+			{
+			"name":"Rb",
+			"State":"Solid",
+			"melting": "312.46K",
+			"boilling":"961K",
+			"rad":"265pm",
+			"den":"1532kg/m³",
+			"elc":"281881",
+			"num":"37"
+			},
+			{
+			"name":"Sr",
+			"State":"Solid",
+			"melting": "1050K",
+			"boilling":"1655K",
+			"rad":"219pm",
+			"den":"2630kg/m³",
+			"elc":"281882",
+			"num":"38"
+			},
+			{
+			"name":"Y",
+			"State":"Solid",
+			"melting": "1799K",
+			"boilling":"3618K",
+			"rad":"212pm",
+			"den":"4472kg/m³",
+			"elc":"281892",
+			"num":"39"
+			},
+			{
+			"name":"Zr",
+			"State":"Solid",
+			"melting": "2128K",
+			"boilling":"4682K",
+			"rad":"206pm",
+			"den":"6511kg/m³",
+			"elc":"2818102",
+			"num":"40"
+			}
+	]
+}

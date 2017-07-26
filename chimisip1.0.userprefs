@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Rotate.cs">
+    <Files>
+      <File FileName="Assets\ScanAnim.cs" Line="1" Column="1" />
+      <File FileName="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Gamemanager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\atom.txt" Line="1" Column="1" />
+      <File FileName="Assets\scripts\DragObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\New.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\UserInterfaceButtons.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Rotate.cs" Line="21" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
